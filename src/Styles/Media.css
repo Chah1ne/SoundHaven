@@ -1,0 +1,143 @@
+@media screen and (max-width: 740px) {
+    .hero-section {
+        background-image: url('https://audiophilewebsite.netlify.app/img/image-header.e217bb96.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .hero-product-info {
+        width: 100%;
+        text-align: center;
+    }
+    
+    .hero-product-info h1 {
+        font-size: 2rem;
+    }
+
+    .hero-product-info p {
+        width: 100%;
+    }
+
+    .categories {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .categories .card {
+        width: 90vw;
+    }
+
+    .zx9-speaker {
+        flex-direction: column;
+        padding-top: 10px;
+        align-items: center;
+    }
+
+    .zx9-speaker img {
+        max-width: 60%;
+        margin-bottom: 10%;
+    }
+
+    .zx9-speaker .info {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10%;
+    }
+
+    .zx9-speaker .info h1 {
+        font-size: 45px;
+    }
+
+    .yx1-earphone {
+        flex-direction: column;
+        /* padding: 10px; */
+    }
+
+    .yx1-earphone .info {
+        padding: 20px;
+    }
+    .yx1-earphone .info h1{
+        font-size: 2rem;
+    }
+    .about {
+        flex-direction: column;
+        gap: 30px;
+        padding: 20px;
+        align-items: center;
+    }
+
+    .about .image {
+        order: -1;
+    }
+
+    footer div:nth-child(1) {
+        padding: 5px;
+    }
+
+    footer p {
+        font-size: 12px;
+    }
+
+    .item-card {
+        flex-direction: column;
+    }
+
+    .item-card .info h1 {
+        font-size: 28px;
+    }
+
+    .item-card img {
+        margin-bottom: 30px;
+    }
+
+    .features-info {
+        flex-direction: column;
+        gap: 3rem;
+        padding: 5px;
+    }
+
+    .feature-images {
+        flex-direction: column;
+    }
+
+    .no-items-image {
+        width: 100%;
+    }
+    .mobile-footer{
+        flex-direction: column;
+    }
+    .copyright{
+        gap: 1rem;
+        flex-direction: column;
+        align-items: center;
+        padding: 1rem;
+    }
+}
+
+
+@media screen and (max-width: 1365px) {
+    form {
+        flex-direction: column;
+        gap: 4rem;
+    }
+
+    form input {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .checkout-page {
+        padding: 20px;
+    }
+
+    .billing-details div {
+        flex-direction: column;
+    }
+
+    .shipping-info div:nth-of-type(2) {
+        flex-direction: column;
+    }
+}

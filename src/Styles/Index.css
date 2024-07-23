@@ -1,0 +1,114 @@
+/* src/styles/tailwind.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Your custom styles can go here */
+
+.wrapper {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+.hero-section {
+  background-image: url('https://audiophilewebsite.netlify.app/img/image-hero.d016bebf.jpg');
+}
+
+nav {
+  background-color: #191919;
+}
+
+button {
+  background: #d87d4a;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.776rem;
+  letter-spacing: .1rem;
+  border: none;
+  padding: 15px 15px;
+  transition: all .3s ease;
+  width: fit-content;
+}
+
+
+button:hover {
+  background-color: #622907;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  line-height: 2.459rem;
+  letter-spacing: .129rem;
+  font-weight: 700;
+}
+
+.card {
+  border-radius: 3%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40vh;
+  text-transform: uppercase;
+  background: #f3f3f3;
+  padding-bottom: 23px;
+}
+
+.zx9-speaker {
+  background: #d87d4a;
+  background-image: url('https://audiophilewebsite.netlify.app/img/pattern-circles.f1ca4f13.svg');
+  border-radius: 10px;
+}
+
+.zx7-speaker {
+  background-image: url('https://audiophilewebsite.netlify.app/img/image-speaker-zx7.9766dd94.jpg');
+  height: 43vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1206px;
+  background-position-y: top;
+  border-radius: 10px;
+}
+
+.button2 {
+  background: transparent;
+  border: 1px solid black;
+  color: black;
+}
+
+.button2:hover {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.link {
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.3s;
+  font-weight: 700;
+}
+
+.link:hover {
+  color: red;
+}
+
+input {
+  margin-top: 10px;
+  outline: none;
+  width: 22rem;
+  height: 3.6rem;
+  padding-left: 1.4rem;
+  border-radius: 10px;
+  border: 1px solid;
+}

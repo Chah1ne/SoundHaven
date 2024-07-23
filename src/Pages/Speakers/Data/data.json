@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "ZX9 Speaker",
+        "image": "https://audiophilewebsite.netlify.app/img/image-category-page-preview.b8438b07.jpg",
+        "desc": "Upgrade your sound system with the all new ZX9 active speaker. It’s a bookshelf speaker system that offers truly wireless connectivity -- creating new possibilities for more pleasing and practical audio setups.",
+        "price": 2999,
+        "features": "Connect via Bluetooth or nearly any wired source. This speaker features optical, digital coaxial, USB Type-B, stereo RCA, and stereo XLR inputs, allowing you to have up to five wired source devices connected for easy switching. Improved bluetooth technology offers near lossless audio quality at up to 328ft (100m). Discover clear, more natural sounding highs than the competition with ZX9’s signature planar diaphragm tweeter. Equally important is its powerful room-shaking bass courtesy of a 6.5” aluminum alloy bass unit. You’ll be able to enjoy equal sound quality whether in a large room or small den. Furthermore, you will experience new sensations from old songs since it can respond to even the subtle waveforms.",
+        "inTheBox": ["Speaker unit", "Speaker cloth panel", "User manual", "3.5mm 10m audio cable", "10m optical cable"],
+        "images": ["https://audiophilewebsite.netlify.app/img/image-gallery-1.5ba9a491.jpg", "https://audiophilewebsite.netlify.app/img/image-gallery-2.aa9c39d1.jpg", "https://audiophilewebsite.netlify.app/img/image-gallery-3.14ea52e0.jpg"]
+    },
+    {
+        "id": 2,
+        "name": "ZX7 Speaker",
+        "image": "https://audiophilewebsite.netlify.app/img/image-category-page-preview.28baf219.jpg",
+        "desc": "Stream high quality sound wirelessly with minimal to no loss. The ZX7 speaker uses high-end SoundHaven components that represents the top of the line powered speakers for home or studio use.",
+        "price": 2500,
+        "features": "Reap the advantages of a flat diaphragm tweeter cone. This provides a fast response rate and excellent high frequencies that lower tiered bookshelf speakers cannot provide. The woofers are made from aluminum that produces a unique and clear sound. XLR inputs allow you to connect to a mixer for more advanced usage. The ZX7 speaker is the perfect blend of stylish design and high performance. It houses an encased MDF wooden enclosure which minimises acoustic resonance. Dual connectivity allows pairing through bluetooth or traditional optical and RCA input. Switch input sources and control volume at your finger tips with the included wireless remote. This versatile speaker is equipped to deliver an authentic listening experience.",
+        "inTheBox": ["Earphone unit", "Multi-size earplugs", "User manual", "USB-C charging cable", "Travel pouch"],
+        "images": ["https://audiophilewebsite.netlify.app/img/image-gallery-1.2cd8b05a.jpg", "https://audiophilewebsite.netlify.app/img/image-gallery-2.61b5da58.jpg", "https://audiophilewebsite.netlify.app/img/image-gallery-3.2c7e8f28.jpg"]
+    }
+]

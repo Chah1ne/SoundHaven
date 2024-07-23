@@ -1,0 +1,12 @@
+[
+    {
+        "id": 6,
+        "name": "YX1 Wireless Earphones",
+        "image": "https://audiophilewebsite.netlify.app/img/image-product.2aeeadec.jpg",
+        "desc": "Tailor your listening experience with bespoke dynamic drivers from the new YX1 Wireless Earphones. Enjoy incredible high-fidelity sound even in noisy environments with its active noise cancellation feature.",
+        "price": 500,
+        "features": "Experience unrivalled stereo sound thanks to innovative acoustic technology. With improved ergonomics designed for full day wearing, these revolutionary earphones have been finely crafted to provide you with the perfect fit, delivering complete comfort all day long while enjoying exceptional noise isolation and truly immersive sound. The YX1 Wireless Earphones features customizable controls for volume, music, calls, and voice assistants built into both earbuds. The new 7-hour battery life can be extended up to 28 hours with the charging case, giving you uninterrupted play time. Exquisite craftsmanship with a splash resistant design now available in an all new white and grey color scheme as well as the popular classic black.",
+        "inTheBox": ["Earphone unit", "Multi-size earplugs", "User manual", "USB-C charging cable", "Travel pouch"],
+        "images": ["https://audiophilewebsite.netlify.app/img/image-gallery-1.26dff143.jpg", "https://audiophilewebsite.netlify.app/img/image-gallery-2.8bba6368.jpg", "https://audiophilewebsite.netlify.app/img/image-gallery-3.d0a5bc72.jpg"]
+    }
+]
